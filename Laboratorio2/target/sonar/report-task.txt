@@ -1,0 +1,7 @@
+organization=ug-software-engineering-i-2021-2
+projectKey=UG-Software-Engineering-I-2021-2_lab03-translator-miguel23022001
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23273
+dashboardUrl=https://sonarcloud.io/dashboard?id=UG-Software-Engineering-I-2021-2_lab03-translator-miguel23022001
+ceTaskId=AXvx4PGdNW2YGd2zmX0i
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvx4PGdNW2YGd2zmX0i

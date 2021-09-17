@@ -1,0 +1,303 @@
+
+itranslator.Translator#translate(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java& &( "10*˙
+2â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaC C(„‡
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaC C(#
+%32java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*+
+)
+textTranslatedjava.lang.StringBuilder*
+
+outputjava.lang.String2append(Ljava/lang/String;)*
+3*Ú
+3â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaB B(âÜ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaB B("
+%31java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;*
+
+brjava.io.BufferedReader2
+readLine()Ã
+…
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaB B("
+outputjava.lang.String"__id*
+
+%31java.lang.String*
+2
+1*Ú
+4â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java=+ ?(Ã…
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java=/ =(@ 
+%25java.io.InputStreamReader"java.io.InputStreamReaderí
+è
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java=+ ?(
+%26"8java.io.InputStreamReader#<init>(Ljava/io/InputStream;)V*"
+ 
+%25java.io.InputStreamReader*
+
+%22java.io.InputStream∆√
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java= =(*
+%27java.io.BufferedReader"java.io.BufferedReaderç
+ä
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java= ?(
+%28"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
+
+%27java.io.BufferedReader*"
+ 
+%25java.io.InputStreamReader‘
+—
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java= ?(	
+brjava.io.BufferedReader"__id*
+
+%27java.io.BufferedReaderπ
+∂
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java@ @(
+outputjava.lang.String"__id*
+""»≈
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaA' A(4
+%29java.lang.StringBuilder"java.lang.StringBuilder€
+ÿ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaA# A(6
+%30"!java.lang.StringBuilder#<init>()V* 
+
+%29java.lang.StringBuilder‚
+ﬂ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaA A(7)
+textTranslatedjava.lang.StringBuilder"__id* 
+
+%29java.lang.StringBuilder*
+3*é
+5â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java>6 >(:•¢
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java>6 >(K
+%24java.io.InputStream"@java.net.HttpURLConnection#getErrorStream()Ljava/io/InputStream;*$
+"
+connjava.net.HttpURLConnection2getErrorStream()œ
+Ã
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java>6 >(K
+%22java.io.InputStream"__id*
+
+%24java.io.InputStream*
+4*ä
+6â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java> >("°û
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java> >(3
+%23java.io.InputStream"<java.net.URLConnection#getInputStream()Ljava/io/InputStream;*$
+"
+connjava.net.HttpURLConnection2getInputStream()œ
+Ã
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java> >(3
+%22java.io.InputStream"__id*
+
+%23java.io.InputStream*
+4*Ê-
+7â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java- -()é
+ã
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java- -(@
+%4java.lang.String"ptranslator.Translator#buildJsonPayLoad(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+translator.Translator*
+
+fromLangjava.lang.String*
+
+toLangjava.lang.String*
+
+textjava.lang.String–
+Õ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java- -(A
+jsonPayloadjava.lang.String"__id*
+
+%4java.lang.Stringµ
+≤
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java/ /(
+%5java.lang.String"__id*
+""±Æ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java/ /(
+%6java.net.URL"java.net.URLÔ
+Ï
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java/ /(
+%7"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%6java.net.URL*
+
+%5java.lang.String¿
+Ω
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java/ /( 
+urljava.net.URL"__id*
+
+%6java.net.URLçä
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java01 0(E
+%8java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+urljava.net.URL2openConnection()Ÿ
+÷
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java0 0(F"
+connjava.net.HttpURLConnection"__id*
+
+%8java.net.URLConnectionÅ˛
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java1 1(
+
+%9void"&java.net.URLConnection#setDoOutput(Z)V*$
+"
+connjava.net.HttpURLConnection*
+""2setDoOutput(Z)¥±
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java2 2(!
+%10void"@java.net.HttpURLConnection#setRequestMethod(Ljava/lang/String;)V*$
+"
+connjava.net.HttpURLConnection*
+POST2$setRequestMethod(Ljava/lang/String;)∂
+≥
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java3. 3(7
+%11java.lang.String"__id*
+""˝˙
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java3 3(8
+%12void"Pjava.net.URLConnection#setRequestProperty(Ljava/lang/String;Ljava/lang/String;)V*$
+"
+connjava.net.HttpURLConnection*
+X-WM-CLIENT-ID*
+
+%11java.lang.String28setRequestProperty(Ljava/lang/String;Ljava/lang/String;)∂
+≥
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java42 4(?
+%13java.lang.String"__id*
+""Å˛
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java4 4(@
+%14void"Pjava.net.URLConnection#setRequestProperty(Ljava/lang/String;Ljava/lang/String;)V*$
+"
+connjava.net.HttpURLConnection*
+X-WM-CLIENT-SECRET*
+
+%13java.lang.String28setRequestProperty(Ljava/lang/String;Ljava/lang/String;)ˆÛ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java5 5(?
+%15void"Pjava.net.URLConnection#setRequestProperty(Ljava/lang/String;Ljava/lang/String;)V*$
+"
+connjava.net.HttpURLConnection*
+Content-Type*
+application/json28setRequestProperty(Ljava/lang/String;Ljava/lang/String;)•¢
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java7 7(,
+%16java.io.OutputStream">java.net.URLConnection#getOutputStream()Ljava/io/OutputStream;*$
+"
+connjava.net.HttpURLConnection2getOutputStream()–
+Õ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java7 7(-
+osjava.io.OutputStream"__id*
+
+%16java.io.OutputStreamÏÈ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java8 8(#
+%17byte[]"java.lang.String#getBytes()[B*!
+
+jsonPayloadjava.lang.String2
+getBytes()˜Ù
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java8 8($
+%18void"java.io.OutputStream#write([B)V*
+
+osjava.io.OutputStream*
+
+%17byte[]2	write([B)‚ﬂ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java9 9(
+%19void"java.io.OutputStream#flush()V*
+
+osjava.io.OutputStream2flush()‚ﬂ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java: :(
+%20void"java.io.OutputStream#close()V*
+
+osjava.io.OutputStream2close()ÉÄ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java< <(+
+
+%21int"-java.net.HttpURLConnection#getResponseCode()I*$
+"
+connjava.net.HttpURLConnection2getResponseCode()*
+5
+6*¸
+8â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java) )(<π∂
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java) )(
+%2java.lang.String"java.lang.StringÖ
+Ç
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java) )(=
+%3",java.lang.String#<init>(Ljava/lang/String;)V*
+
+%2java.lang.String*&$
+"Se excedio el numero de caracteres"¶
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java) )(>
+
+%2java.lang.String*ˆ
+9â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java(  (($‹Ÿ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java(  ((-	
+%1int"java.lang.String#length()I*
+
+textjava.lang.String2length()*
+7
+8*˜
+10â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java( ((‹Ÿ
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java( ((	
+%0int"java.lang.String#length()I*
+
+textjava.lang.String2length()*
+8
+9*–
+1â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaE E(˙˜
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaE E(
+%33void"(java.net.HttpURLConnection#disconnect()V*$
+"
+connjava.net.HttpURLConnection2disconnect()óî
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaF F($
+%34java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*+
+)
+textTranslatedjava.lang.StringBuilder2
+toString()"ß
+â
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.javaF F(%
+
+%34java.lang.String:
+fromLangjava.lang.String:
+toLangjava.lang.String:
+textjava.lang.StringB"
+translator.Translator

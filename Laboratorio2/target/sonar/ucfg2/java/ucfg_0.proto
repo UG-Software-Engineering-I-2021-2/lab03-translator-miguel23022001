@@ -1,0 +1,97 @@
+
+ptranslator.Translator#buildJsonPayLoad(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java ('"1*·$
+1‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java (ÇÄ
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java (
+%0java.lang.StringBuilder"java.lang.StringBuilderÙ
+Ö
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java (
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder¿¼
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java (
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%0java.lang.StringBuilder*
+{2append(Ljava/lang/String;)ÍÊ
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java ( 
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%2java.lang.StringBuilder*
+\"fromLang\":\"2append(Ljava/lang/String;)ØÕ
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java (
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%3java.lang.StringBuilder*
+
+fromLangjava.lang.String2append(Ljava/lang/String;)Á¾
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java (
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%4java.lang.StringBuilder*
+\",2append(Ljava/lang/String;)ËÈ
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java (
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%5java.lang.StringBuilder*
+\"toLang\":\"2append(Ljava/lang/String;)ÖÓ
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java (
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%6java.lang.StringBuilder*
+
+toLangjava.lang.String2append(Ljava/lang/String;)Á¾
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java (
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%7java.lang.StringBuilder*
+\",2append(Ljava/lang/String;)ÉÆ
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java  (
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%8java.lang.StringBuilder*
+\"text\":\"2append(Ljava/lang/String;)ÕÒ
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java !(
+%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%9java.lang.StringBuilder*
+
+textjava.lang.String2append(Ljava/lang/String;)Â¿
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java "(
+%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+%10java.lang.StringBuilder*
+\"2append(Ljava/lang/String;)Á¾
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java #(
+%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+%11java.lang.StringBuilder*
+}2append(Ljava/lang/String;)Œ‰
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java $(
+%13java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+%12java.lang.StringBuilder2
+toString()"§
+‰
+C:/Users/miana/OneDrive/Documentos/GitHub/lab03-translator-miguel23022001/Laboratorio2/src/main/java/translator/Translator.java $(
+
+%13java.lang.String:
+fromLangjava.lang.String:
+toLangjava.lang.String:
+textjava.lang.StringB"
+translator.Translator

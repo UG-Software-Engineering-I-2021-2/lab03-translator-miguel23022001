@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="21" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-16T22:50:26 PET" name="EjemploVehiculoTest" finished-at="2021-09-16T22:50:30 PET" duration-ms="3457">
+    <groups>
+    </groups>
+    <test started-at="2021-09-16T22:50:26 PET" name="Command line test" finished-at="2021-09-16T22:50:30 PET" duration-ms="3457">
+      <class name="EjemploVehiculoTest">
+        <test-method signature="StressTest01()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:26 PET" name="StressTest01" finished-at="2021-09-16T22:50:28 PET" duration-ms="1227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest01 -->
+        <test-method signature="StressTest01()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:26 PET" name="StressTest01" finished-at="2021-09-16T22:50:28 PET" duration-ms="1236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest01 -->
+        <test-method signature="StressTest01()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:26 PET" name="StressTest01" finished-at="2021-09-16T22:50:27 PET" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest01 -->
+        <test-method signature="StressTest01()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:26 PET" name="StressTest01" finished-at="2021-09-16T22:50:28 PET" duration-ms="1109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest01 -->
+        <test-method signature="StressTest01()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:26 PET" name="StressTest01" finished-at="2021-09-16T22:50:28 PET" duration-ms="1246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest01 -->
+        <test-method signature="StressTest01()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:26 PET" name="StressTest01" finished-at="2021-09-16T22:50:28 PET" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest01 -->
+        <test-method signature="StressTest01()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:26 PET" name="StressTest01" finished-at="2021-09-16T22:50:27 PET" duration-ms="1064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest01 -->
+        <test-method signature="StressTest01()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:26 PET" name="StressTest01" finished-at="2021-09-16T22:50:28 PET" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest01 -->
+        <test-method signature="StressTest01()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:26 PET" name="StressTest01" finished-at="2021-09-16T22:50:27 PET" duration-ms="992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest01 -->
+        <test-method signature="StressTest01()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:26 PET" name="StressTest01" finished-at="2021-09-16T22:50:27 PET" duration-ms="1016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest01 -->
+        <test-method signature="StressTest02()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:28 PET" name="StressTest02" finished-at="2021-09-16T22:50:29 PET" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest02 -->
+        <test-method signature="StressTest02()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:28 PET" name="StressTest02" finished-at="2021-09-16T22:50:29 PET" duration-ms="1155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest02 -->
+        <test-method signature="StressTest02()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:28 PET" name="StressTest02" finished-at="2021-09-16T22:50:29 PET" duration-ms="1163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest02 -->
+        <test-method signature="StressTest02()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:28 PET" name="StressTest02" finished-at="2021-09-16T22:50:29 PET" duration-ms="1185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest02 -->
+        <test-method signature="StressTest02()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:28 PET" name="StressTest02" finished-at="2021-09-16T22:50:29 PET" duration-ms="1063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest02 -->
+        <test-method signature="StressTest02()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:28 PET" name="StressTest02" finished-at="2021-09-16T22:50:29 PET" duration-ms="1108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest02 -->
+        <test-method signature="StressTest02()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:28 PET" name="StressTest02" finished-at="2021-09-16T22:50:29 PET" duration-ms="1250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest02 -->
+        <test-method signature="StressTest02()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:28 PET" name="StressTest02" finished-at="2021-09-16T22:50:29 PET" duration-ms="989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest02 -->
+        <test-method signature="StressTest02()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:28 PET" name="StressTest02" finished-at="2021-09-16T22:50:29 PET" duration-ms="1000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest02 -->
+        <test-method signature="StressTest02()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:28 PET" name="StressTest02" finished-at="2021-09-16T22:50:29 PET" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StressTest02 -->
+        <test-method signature="Test01()[pri:0, instance:EjemploVehiculoTest@64aad6db]" started-at="2021-09-16T22:50:29 PET" name="Test01" finished-at="2021-09-16T22:50:30 PET" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+      </class> <!-- EjemploVehiculoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- EjemploVehiculoTest -->
+</testng-results>
