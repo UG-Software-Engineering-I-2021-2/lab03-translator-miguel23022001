@@ -12,14 +12,6 @@ public class Translator {
   private static final String CLIENT_SECRET = "PUBLIC_SECRET";
   private static final String ENDPOINT = "http://api.whatsmate.net/v1/translation/translate";
 
-  /**
-   * Entry Point
-   */
-
-  /**
-   * Sends out a WhatsApp message via WhatsMate WA Gateway.
-   */
-
   public static String buildJsonPayLoad(String fromLang, String toLang, String text) {
     return new StringBuilder()
       .append("{")
